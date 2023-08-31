@@ -1,0 +1,197 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.signup{
+    height: 40px;
+    width: 760px;
+    /* border: 2px solid red; */
+    margin-top: 40px;
+    margin-left: 130px;
+    display: flex;
+}
+.appa{
+    height: 35px;
+    /* margin-left: 11px; */
+    padding-left: -3px;
+    margin-top: -4px;
+    padding-top: -3px;
+    width: 45px;
+}
+.loho {
+    margin-top: -11px;
+    font-size: 46px;
+    color: inherit;
+}
+.apa1{
+    text-decoration: none;
+    color: #FFF;
+}
+.apa2{
+    text-decoration: none;
+    color: #FFF;
+}
+.Hotel{
+    margin-left: 30px;
+    margin-top: 8px;
+    font-size: 19px;
+    background-color: white;
+}
+#backound{
+    height: 629px;
+    width: 100%;
+    /* border: 2px solid red; */
+    display: flex;
+    margin-top: 40px;
+}
+.a1{
+    height: 500px;
+    width: 50%;
+    /* border: 2px solid blue; */
+    margin-top: 20px;
+}
+.a2{
+    height: 500px;
+    /* width: 50%; */
+    /* border: 2px solid black; */
+    margin-top: 20px;
+    box-shadow: rgb(0 0 0 / 20%) 0px 1px 8px 0px, rgb(0 0 0 / 12%) 0px 3px 3px -2px, rgb(0 0 0 / 14%) 0px 3px 4px 0px;
+}
+.life{
+    height: 270px;
+    width: 382px;
+    /* border: 2px solid red; */
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.life1{
+    font-size: 56px;
+
+}
+.life2{
+    font-size: 18px;
+}
+.round{
+    height: 488px;
+    width: 500px;
+    /* border: 2px solid yellow; */
+    margin-top: -10px;
+    background-color: rgba(245, 245, 245, 0.795);
+}
+.round1{
+    height: 35px;
+    width: 500px;
+    /* border: 2px solid black; */
+    margin-top: 10px;
+    /* background-color: rgb(146, 11, 11); */
+    background-color: rgb(146, 11, 11);
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(270deg, rgb(209, 20, 80), rgb(238, 42, 36));
+}
+.ic{
+    height: 30px;
+}
+.s1{
+margin-left: 76px;
+color: rgb(255, 255, 255);
+}
+.s2{
+margin-left: 5px;
+color: rgb(255, 255, 255);
+}
+.s3{
+    margin-left: 5px;
+    color: rgb(255, 255, 255);
+}
+.login{
+    height: 440px;
+    width: 500px;
+    /* border: 2px solid aqua; */
+}
+.login1{
+height: 330px;
+width: 500px;
+/* border: 2px solid gold */
+}
+.login2{
+height: 108px;
+width: 500px;
+/* border: 2px solid firebrick; */
+display: flex;
+
+}
+.logi1{
+    height: 325px;
+    width: 400px;
+    /* border: 2px solid red; */
+    margin-left: 40px;
+    color: #222;
+}
+.logi12{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 37px;
+    color: #333;
+
+}
+.logi123{
+    margin-left: 30px;
+    margin-top: 15px;
+    color: #333;
+}
+.num1{
+        margin-left: 30px;
+    margin-top: 24px;
+    width: 300px;
+    padding-top: 6px;
+    padding-bottom: 11px;
+}
+
+.bt{
+    margin-left: 30px;
+    margin-top: 25px;
+    width: 119px;
+    height: 35px;
+    border-radius: 6px;
+    background-color: green;
+} 
+.hd{
+margin-top: 20px;
+margin-left: 26px;
+}
+
+.last{
+    height: 20px;
+    width: 400px;
+    margin-left: 41px;
+    margin-top: 25px;
+    /* border: 2px solid hotpink; */
+}
+.lapl{
+    height: 50px;
+    width: 400px;
+    /* border: 2px solid rebeccapurple; */
+    display: flex;
+    margin-top: 10px;
+}
+.co{
+    margin-left: 100px;
+    margin-top: 10px;
+    /* color: rgb(34, 34, 34) */
+    text-decoration: none;
+}
+.tr{
+    margin-top: 10px;
+    /* color: rgb(34, 34, 34); */
+    text-decoration: none;
+}
+.btn1{
+    background: #EE2A24;
+    height: 26px;
+    width: 89px;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+}
